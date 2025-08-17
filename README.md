@@ -2,13 +2,13 @@
 <h3 align="center">A passionate software engineer</h3>
 
 
-- 🔭 I’m currently working on [Cse hub](https://github.com/samibentaiba/cse-hub)
+- 🔭 I’m currently working on [Career](https://bentaidev.vercel.app/#projects)
 
-- 🌱 I’m currently learning **Laravel & Next & Spring boot**
+- 🌱 I’m currently learning **Java & Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://bentaidev.netlify.app/](https://bentaidev.netlify.app/)
 
-- 💬 Ask me about **React, Next, Laravel**
+- 💬 Ask me about **Typescript, Next, Laravel, Vim, Bash**
 
 - 📫 How to reach me **samibentaiba25@gmail.com**
 
