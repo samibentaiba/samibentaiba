@@ -2,16 +2,16 @@
 <h1 align="center">Hi, I'm Sami Bentaiba</h1>
 
 
-- 🔭 I’m currently working on [Career](https://bentaidev.vercel.app/#projects)
+- I’m currently working on [Career](https://bentaidev.vercel.app/#projects)
 
-- 🌱 I’m currently learning **Package managment**
+- I’m currently learning **Package managment**
 
-- 👨‍💻 All of my projects are available at [https://bentaidev.netlify.app/](https://bentaidev.netlify.app/)
+- All of my projects are available at [https://bentaidev.netlify.app/](https://bentaidev.netlify.app/)
 
-- 💬 Ask me about **Typescript, Next, Laravel, Vim, Bash**
+- Ask me about **Typescript, Next, Laravel, Vim, Bash**
 
-- 📫 How to reach me **samibentaiba25@gmail.com**
-- 
+- How to reach me **samibentaiba25@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
