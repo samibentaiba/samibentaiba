@@ -10,7 +10,7 @@
 
 - Ask me about **Typescript, Next, Laravel, Vim, Bash**
 
-- How to reach me <a href="mailto:samibentaiba25@gmail.com" target="blank"></a>
+- How to reach me <a href="mailto:samibentaiba25@gmail.com" target="blank">samibentaiba25@gmail.com</a>
 
 
 <h3 align="left">Connect with me:</h3>
