@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sami Bentaiba</h1>
+<h1 align="center">Hi, I'm Sami Bentaiba</h1>
 <h3 align="center">A passionate software engineer</h3>
 
 
 - 🔭 I’m currently working on [Career](https://bentaidev.vercel.app/#projects)
 
-- 🌱 I’m currently learning **Java & Spring boot**
+- 🌱 I’m currently learning **Package managment**
 
 - 👨‍💻 All of my projects are available at [https://bentaidev.netlify.app/](https://bentaidev.netlify.app/)
 
 - 💬 Ask me about **Typescript, Next, Laravel, Vim, Bash**
 
 - 📫 How to reach me **samibentaiba25@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uEQOZLZOhGgeRXfurZFECXE5X_7CuMvz/view?usp=drive_link](https://drive.google.com/file/d/1uEQOZLZOhGgeRXfurZFECXE5X_7CuMvz/view?usp=drive_link)
-
-- ⚡ Fun fact **No One Loves Algeria**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
