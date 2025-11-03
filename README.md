@@ -1,5 +1,5 @@
+<h3 align="center">Junior Software Engineer</h3>
 <h1 align="center">Hi, I'm Sami Bentaiba</h1>
-<h3 align="center">A passionate software engineer</h3>
 
 
 - 🔭 I’m currently working on [Career](https://bentaidev.vercel.app/#projects)
