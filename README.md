@@ -1,14 +1,14 @@
-<h3 align="center">Junior Software Engineer</h3>
+S<h3 align="center">Junior Software Engineer</h3>
 <h1 align="center">Hi, I'm Sami Bentaiba</h1>
 
 
 - I’m currently working on [Career](https://bentaidev.vercel.app/#projects)
 
-- I’m currently learning **Package managment**
+- I’m currently learning **package managment and software architecture**
 
 - All of my projects are available at [https://bentaidev.netlify.app/](https://bentaidev.netlify.app/)
 
-- Ask me about **Typescript, Next, Laravel, Vim, Bash**
+- Ask me about Software **programming, Architecture and environments**
 
 - How to reach me <a href="mailto:samibentaiba25@gmail.com" target="blank">samibentaiba25@gmail.com</a>
 
