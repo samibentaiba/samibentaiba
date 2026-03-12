@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Sami Bentaiba</h1>
 
 
-- I’m currently working on [Career](https://bentaidev.vercel.app/#projects)
+- I’m currently working on [Career](https://bentaidev.vercel.app)
 
 - I’m currently learning **package managment and software architecture**
 
